@@ -1,0 +1,40 @@
+# default config.yml
+#
+# The format is:
+#
+# workspace-name:  # name of the workspace
+#   window-class:  # $ xdotools search --class window-class
+#     w:
+#     h:
+#     x:
+#     y:
+#
+rails:
+  gvim:
+    w: 930
+    h: 1150
+    x: 990
+    y: 0
+  chromium:
+    w: 990
+    h: 800
+    x: 0
+    y: 0
+  terminal:
+    w: 1920 
+    h: 355 
+    x: 0
+    y: 800 
+
+ruby:
+  gvim:
+    w: 960
+    h: 1150
+    x: 960
+    y: 0
+  terminal:
+    w: 960
+    h: 1150 
+    x: 0
+    y: 0 
+
