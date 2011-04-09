@@ -1,8 +1,8 @@
 # Simple window mover
 
-I got really tired of lining up my windows and every other thing out
-there just didn't seem to let me do the obvious things like provide a
-widht, height, x, and y.  
+A simple tool to arrange windows in ubuntu with a width, height, x, y.
+
+No fancy stuff.
 
 ## Usage
   Copy the ruby script into your $PATH i.e.
@@ -22,3 +22,8 @@ widht, height, x, and y.
         h: 300
         x: 0
         y: 0
+
+  usage:
+    $ workspace rails # rails is the workspace name
+    Arranging workspace: rails
+    $
